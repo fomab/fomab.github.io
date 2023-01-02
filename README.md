@@ -1,1 +1,1 @@
-# fomab.github.io
+# fomab.io
