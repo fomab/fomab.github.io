@@ -1,0 +1,19 @@
+<html>
+   <head>
+       <title>Оснавная задача кафе Starbuzz</title>
+       <style type="text/css">
+            body {
+                  background-color: #d2b48c;
+                  margin-left: 20%;
+                  margin-rigth: 20%;
+                  padding: 10px 10px 10px 10px;
+                  font-family: sans-serif;
+            }
+            </style>
+
+   </head>
+   <body>
+     <h1>Очнавна задача кафе Starbuzz</h1>
+     <p>Обеспечить вас необходимым количества кофеина для поддержания жизненого тонуса. Просто выпейте это.</p>
+  </body>
+</html>
